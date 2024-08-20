@@ -1412,13 +1412,13 @@ __metadata:
   linkType: hard
 
 "@wix/events@npm:^1.0.159":
-  version: 1.0.240
-  resolution: "@wix/events@npm:1.0.240"
+  version: 1.0.241
+  resolution: "@wix/events@npm:1.0.241"
   dependencies:
     "@wix/events_categories": 1.0.35
     "@wix/events_forms": 1.0.35
     "@wix/events_guests": 1.0.48
-    "@wix/events_notifications": 1.0.13
+    "@wix/events_notifications": 1.0.14
     "@wix/events_orders": 1.0.36
     "@wix/events_policies": 1.0.34
     "@wix/events_rsvp": 1.0.31
@@ -1426,10 +1426,10 @@ __metadata:
     "@wix/events_schedule-bookmarks": 1.0.25
     "@wix/events_staff-members": 1.0.7
     "@wix/events_ticket-definitions": 1.0.39
-    "@wix/events_ticket-definitions-v-2": 1.0.42
+    "@wix/events_ticket-definitions-v-2": 1.0.43
     "@wix/events_tickets": 1.0.33
     "@wix/events_wix-events-v-2": 1.0.40
-  checksum: 4b9d53ab793d07380d1e8401133cbeed98e54ab90e2451e42e3a142100bae7aa8942a23a85b3133ca1b8f153f9d2bfc197f5ea82d7cf97e6da31cf2fcadd181f
+  checksum: b61564d8691d7a094541d6cbdc2533fc9e1f05738679d54507c3a3bbc465d143c4d58f472ffd2eb2d396f7723b095910b2889a322ca6630a8732e1e0cad38c2d
   languageName: node
   linkType: hard
 
@@ -1469,15 +1469,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/events_notifications@npm:1.0.13":
-  version: 1.0.13
-  resolution: "@wix/events_notifications@npm:1.0.13"
+"@wix/events_notifications@npm:1.0.14":
+  version: 1.0.14
+  resolution: "@wix/events_notifications@npm:1.0.14"
   dependencies:
     "@wix/metro-runtime": ^1.1696.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: 3d68a0a6eced9de1bf3c2aaf733c6c60885880d74659bdd79d02b9247a8ab4e7c02552946a08abb301b548417580f3f68e00b308e5a0ba5a846809680f9a0f85
+  checksum: 305bcf1d3a5876c5b64c2c2c273c8b488b59720bb6d893f0dd5616d5ac80d3004047d6ffada6be17d692a7d939df6b1c5c87f61394221bb85ab4ba4add9df9a9
   languageName: node
   linkType: hard
 
@@ -1553,15 +1553,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@wix/events_ticket-definitions-v-2@npm:1.0.42":
-  version: 1.0.42
-  resolution: "@wix/events_ticket-definitions-v-2@npm:1.0.42"
+"@wix/events_ticket-definitions-v-2@npm:1.0.43":
+  version: 1.0.43
+  resolution: "@wix/events_ticket-definitions-v-2@npm:1.0.43"
   dependencies:
     "@wix/metro-runtime": ^1.1696.0
     "@wix/motion-edm-autogen-query-wrapper": ^1.0.37
     "@wix/sdk-runtime": ^0.3.14
     "@wix/sdk-types": ^1.9.2
-  checksum: e605e54ca963d95ff6d6f5ee6db79e314b38664d8e5c0aaa9e3f2cd1afd6284bfa57ee41ee6b38fde111a568fdfa0c267459227b2938ec662c3da376f6356204
+  checksum: 6a978ba8546cbe66c004b8b2434e70b68009e9b05f6fc85333bee8f7830c9ad94d73a27f17b4a6fd5f220b5e5e9392d74b0341e70c478df42369d3aac738a4a2
   languageName: node
   linkType: hard
 
